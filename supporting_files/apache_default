@@ -1,5 +1,5 @@
 <VirtualHost *:80>
-        ServerAdmin webmaster@localhost
+        ServerAdmin apwinc@sookmyung.ac.kr
 
         DocumentRoot /var/www/html
         <Directory />
